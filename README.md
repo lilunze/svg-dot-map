@@ -9,4 +9,4 @@ reference: [point-map](https://github.com/zmofei/point-map)
 The dot map is drawn using svg  
 dependence: [svg.js](https://svgjs.com/docs/3.0/)  
 
-[Demo](https://lilunze.github.io)
+[Demo](https://lilunze.github.io/2020/07/27/svg-dot-map/)

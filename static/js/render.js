@@ -116,9 +116,9 @@ function drawRect(x,y){
             y: y * gridWidth - 3
         })
     })
-    rect.on('click',function(){
-        console.log(x,y)
-    })
+    // rect.on('click',function(){
+    //     console.log(x,y)
+    // })
 }
 
 // 绘制圆形像素点
